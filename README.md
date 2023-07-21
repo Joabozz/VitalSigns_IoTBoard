@@ -1,4 +1,6 @@
 # VitalSigns_IoTBoard
+![MasterHead](https://i.pinimg.com/originals/d4/55/e3/d455e3be112235e6f70ce41be9ffd6d2.gif)
+
 
 <p>The IOT EMBEDDED BOARD FOR MONITORING BIOMEDICAL SIGNALS is a project that targets the health centers in third world countries. 
 Due to the events of covid-19 the world saw the benefits of telemedicine but it wasn't accesible for everyone, it was designed with the purpose of helping hospitals and clinics that are saturated with patients, since not all patients are of high priority and exposure to a hospital can contaminate them.</p>
